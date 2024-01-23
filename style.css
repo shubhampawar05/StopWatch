@@ -25,9 +25,7 @@ main{
     justify-content: center;
     position: absolute;
 }
-main div {
-    /* background-color: aliceblue; */
-}
+
 main div h1 {
     font-size: 50px;
     font-weight: 600;
@@ -56,7 +54,7 @@ button:hover {
     background-color: #f44583;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
   }
-  
+
 button[disabled] {
     opacity: 0.5;
     cursor: default;
